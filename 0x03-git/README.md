@@ -1,1 +1,1 @@
-echo first task
+first task
